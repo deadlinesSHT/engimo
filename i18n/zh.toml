@@ -3,10 +3,10 @@ one = "作者"
 other = "作者们"
 
 [authorsAvatar]
-other = "{{ .Author }}的头像"
+other = "{{ .Author }}君的头像"
 
 [by]
-other = "by"
+other = "由"
 
 [cancel]
 other = "取消"
@@ -22,26 +22,26 @@ other = "分类"
 other = "评论"
 
 [commentSubmissionErrorMessage]
-other = "发生错误。无法提交您的评论。请再试一次。谢谢你！"
+other = "一些不改发生的错误发生了，真是遗憾。"
 
 [commentSubmissionErrorTitle]
-other = "啊，抱歉！"
+other = "呀，遇到一些问题。"
 
 [commentSubmissionSuccessMessage]
 other = "您的评论已提交。它不久后将会出现在该页面！"
 
 [commentSubmissionSuccessTitle]
-other = "谢谢你！"
+other = "无以报答。"
 
 [commentsOnEntry]
 one = "只有{{ .Count }}评论了{{ .Title }}"
 other = "{{ .Count }}评论了{{ .Title }}"
 
 [contactViaEmail]
-other = "通过邮件联系"
+other = "发邮件给"
 
 [currentPage]
-other = "当前页"
+other = "现在的页面"
 
 [email]
 other = "邮件"
@@ -53,13 +53,13 @@ other = "Gopher"
 other = "去主页..."
 
 [leaveAComment]
-other = "发表评论"
+other = "留下评论"
 
 [mainMenu]
 other = "主菜单"
 
 [name]
-other = "名字"
+other = "芳名"
 
 [next]
 other = "下一个"
